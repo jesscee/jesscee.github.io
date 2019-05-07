@@ -1,0 +1,22 @@
+---
+layout: global
+---
+<div class="pt-5 pb-5 mb-5 intro">
+    <h2>Hello!</h2>
+    <p class="lead"><p>Welcome to my online portfolio. You can find a selection of projects that I have had the opportunity to be a part of.</p>
+</div>
+<div class="row">
+    {% for post in site.posts %}
+    <div class="col-md-4">
+        <a href="{{ post.url }}" class="card mb-4 box-shadow">
+            <img class="card-img-top" src="/assets/img/thumbs/{{ post.image }}" alt="{{ post.image-alt }}" />
+            <div class="card-body">
+                <p class="card-text">{{ post.title }}</p>
+                <div class="d-flex justify-content-between align-items-center">
+                    <small class="text-muted">UI design, Front-end development</small>
+                </div>
+            </div>
+        </a>
+    </div>
+    {% endfor %}
+</div>

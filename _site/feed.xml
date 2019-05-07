@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="jessicachapman.com/feed.xml" rel="self" type="application/atom+xml" /><link href="jessicachapman.com/" rel="alternate" type="text/html" /><updated>2019-05-07T23:40:25+10:00</updated><id>jessicachapman.com/feed.xml</id><title type="html">Jessica Chapman</title><subtitle>I'm a Canberra-based Interaction designer and front-end developer. Check out some of my work!</subtitle><entry><title type="html">Urban Roasters</title><link href="jessicachapman.com/urbanroasters/" rel="alternate" type="text/html" title="Urban Roasters" /><published>2018-11-11T00:00:00+11:00</published><updated>2018-11-11T00:00:00+11:00</updated><id>jessicachapman.com/urban-roasters</id><content type="html" xml:base="jessicachapman.com/urbanroasters/">&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        
+        &lt;a class=&quot;prev float-left&quot; href=&quot;/frontier/&quot;&gt;&amp;laquo; Frontier&lt;/a&gt;
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1&gt;Urban roasters&lt;/h1&gt;
+&lt;section class=&quot; mt-5 mb-5&quot;&gt;
+    &lt;p&gt;Urban Roasters is a boutique coffee roastery located in Canberra. This project involved the design and creation of the Urban Roasters logo along with custom graffiti-style artwork. Urban Roasters did not have an existing online presence, and so I was in charge of the full design and development of Urban Roaster's online coffee store.&lt;/p&gt;
+    &lt;p&gt;&lt;a class=&quot;project-link-url&quot; target=&quot;_blank&quot; href=&quot;https://www.urbanroasters.com.au&quot;&gt;urbanroasters.com.au&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col mb-5&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Urban Roasters website, showing the design of the homepage&quot; src=&quot;/assets/img/full/ur-home.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Urban Roasters website, showing the design of the main shop page&quot; src=&quot;/assets/img/full/ur-content.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row mt-5&quot;&gt;
+
+    &lt;div class=&quot;col mt-5&quot;&gt;
+
+
+     
+
+            
+            &lt;a class=&quot;prev float-left&quot; href=&quot;/frontier/&quot;&gt;&amp;laquo; Frontier&lt;/a&gt;
+            
+            
+      
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">&amp;laquo; Frontier Urban roasters Urban Roasters is a boutique coffee roastery located in Canberra. This project involved the design and creation of the Urban Roasters logo along with custom graffiti-style artwork. Urban Roasters did not have an existing online presence, and so I was in charge of the full design and development of Urban Roaster's online coffee store. urbanroasters.com.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jessicachapman.com/ur_thumb.jpg" /></entry><entry><title type="html">Frontier</title><link href="jessicachapman.com/frontier/" rel="alternate" type="text/html" title="Frontier" /><published>2018-01-12T00:00:00+11:00</published><updated>2018-01-12T00:00:00+11:00</updated><id>jessicachapman.com/frontier</id><content type="html" xml:base="jessicachapman.com/frontier/">&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        
+        &lt;a class=&quot;prev float-left&quot; href=&quot;/the-cove/&quot;&gt;&amp;laquo; The Cove&lt;/a&gt;
+        
+        
+        &lt;a class=&quot;next float-right&quot; href=&quot;/urbanroasters/&quot;&gt;Urban Roasters &amp;raquo;&lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1&gt;Frontier&lt;/h1&gt;
+&lt;section class=&quot; mt-5 mb-5&quot;&gt;
+    &lt;p&gt;Frontier is an online resource for student and graduate members of Engineers Australia. I was responsible for the full website design and development.&lt;/p&gt;
+    &lt;p&gt;&lt;a class=&quot;project-link-url&quot; target=&quot;_blank&quot; href=&quot;https://frontier.engineersaustralia.org.au&quot;&gt;frontier.engineersaustralia.org.au&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col mb-5&quot;&gt;
+        &lt;img alt=&quot;Screenshot of the Frontier website, showing the design of the homepage&quot; src=&quot;/assets/img/full/frontier-home.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        &lt;img alt=&quot;Screenshot of the Frontier website, showing the design of the main shop page&quot; src=&quot;/assets/img/full/frontier-content.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row mt-5&quot;&gt;
+
+    &lt;div class=&quot;col mt-5&quot;&gt;
+
+
+     
+
+            
+            &lt;a class=&quot;prev float-left&quot; href=&quot;/the-cove/&quot;&gt;&amp;laquo; The Cove&lt;/a&gt;
+            
+            
+            &lt;a class=&quot;next float-right&quot; href=&quot;/urbanroasters/&quot;&gt;Urban Roasters &amp;raquo;&lt;/a&gt;
+            
+      
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">&amp;laquo; The Cove Urban Roasters &amp;raquo; Frontier Frontier is an online resource for student and graduate members of Engineers Australia. I was responsible for the full website design and development. frontier.engineersaustralia.org.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jessicachapman.com/ea-frontier_thumb.jpg" /></entry><entry><title type="html">The Cove</title><link href="jessicachapman.com/the-cove/" rel="alternate" type="text/html" title="The Cove" /><published>2017-12-01T00:00:00+11:00</published><updated>2017-12-01T00:00:00+11:00</updated><id>jessicachapman.com/cove</id><content type="html" xml:base="jessicachapman.com/the-cove/">&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        
+        &lt;a class=&quot;prev float-left&quot; href=&quot;/engineers-australia/&quot;&gt;&amp;laquo; Engineers Australia&lt;/a&gt;
+        
+        
+        &lt;a class=&quot;next float-right&quot; href=&quot;/frontier/&quot;&gt;Frontier &amp;raquo;&lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1&gt;The Cove&lt;/h1&gt;
+&lt;section class=&quot; mt-5 mb-5&quot;&gt;
+    &lt;p&gt;The Cove is an online professional development network for the Australian Army. I was responsible for the full design and development of this website.&lt;/p&gt;
+    &lt;p&gt;&lt;a class=&quot;project-link-url&quot; target=&quot;_blank&quot; href=&quot;https://www.cove.org.au/&quot;&gt;cove.org.au&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col mb-5&quot;&gt;
+        &lt;img alt=&quot;Screenshot of The Cove website, showing the design of the homepage&quot; src=&quot;/assets/img/full/cove_01.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        &lt;img alt=&quot;Screenshot of The Cove website, showing the design of a content page&quot; src=&quot;/assets/img/full/cove_02.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row mt-5&quot;&gt;
+
+    &lt;div class=&quot;col mt-5&quot;&gt;
+
+
+     
+
+            
+            &lt;a class=&quot;prev float-left&quot; href=&quot;/engineers-australia/&quot;&gt;&amp;laquo; Engineers Australia&lt;/a&gt;
+            
+            
+            &lt;a class=&quot;next float-right&quot; href=&quot;/frontier/&quot;&gt;Frontier &amp;raquo;&lt;/a&gt;
+            
+      
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">&amp;laquo; Engineers Australia Frontier &amp;raquo; The Cove The Cove is an online professional development network for the Australian Army. I was responsible for the full design and development of this website. cove.org.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jessicachapman.com/cove_thumb.jpg" /></entry><entry><title type="html">Engineers Australia</title><link href="jessicachapman.com/engineers-australia/" rel="alternate" type="text/html" title="Engineers Australia" /><published>2017-11-11T00:00:00+11:00</published><updated>2017-11-11T00:00:00+11:00</updated><id>jessicachapman.com/ea</id><content type="html" xml:base="jessicachapman.com/engineers-australia/">&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        
+        &lt;a class=&quot;prev float-left&quot; href=&quot;/guest-designs/&quot;&gt;&amp;laquo; Guest Designs&lt;/a&gt;
+        
+        
+        &lt;a class=&quot;next float-right&quot; href=&quot;/the-cove/&quot;&gt;The Cove &amp;raquo;&lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1&gt;Engineers Australia&lt;/h1&gt;
+&lt;section class=&quot; mt-5 mb-5&quot;&gt;
+    &lt;p&gt;While working as a UX designer and front-end developer at Engineers Australia, I was involved in many projects that required custom application development along with custom user interface designs that met business and user needs.&lt;/p&gt;
+    &lt;p&gt;&lt;a class=&quot;project-link-url&quot; target=&quot;_blank&quot; href=&quot;https://www.engineersaustralia.org.au/&quot;&gt;engineersaustralia.org.au&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col mb-5&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Engineers Australia Chartered Application&quot; src=&quot;/assets/img/full/ea-portal-application.jpg&quot; class=&quot;img-fluid img-border&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Engineers Australia Chartered Application&quot; src=&quot;/assets/img/full/ea-portal-application02.jpg&quot; class=&quot;img-fluid mb-5&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Engineers Australia Chartered Application&quot; src=&quot;/assets/img/full/ea-application02.jpg&quot; class=&quot;img-fluid mb-5&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Engineers Australia Chartered Application&quot; src=&quot;/assets/img/full/ea-application03.jpg&quot; class=&quot;img-fluid mb-5&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Engineers Australia Chartered Application&quot; src=&quot;/assets/img/full/ea-application01.jpg&quot; class=&quot;img-fluid mb-5&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row mt-5&quot;&gt;
+
+    &lt;div class=&quot;col mt-5&quot;&gt;
+
+
+     
+
+            
+            &lt;a class=&quot;prev float-left&quot; href=&quot;/guest-designs/&quot;&gt;&amp;laquo; Guest Designs&lt;/a&gt;
+            
+            
+            &lt;a class=&quot;next float-right&quot; href=&quot;/the-cove/&quot;&gt;The Cove &amp;raquo;&lt;/a&gt;
+            
+      
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">&amp;laquo; Guest Designs The Cove &amp;raquo; Engineers Australia While working as a UX designer and front-end developer at Engineers Australia, I was involved in many projects that required custom application development along with custom user interface designs that met business and user needs. engineersaustralia.org.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jessicachapman.com/ea_thumb.jpg" /></entry><entry><title type="html">Guest Designs</title><link href="jessicachapman.com/guest-designs/" rel="alternate" type="text/html" title="Guest Designs" /><published>2017-05-19T00:00:00+10:00</published><updated>2017-05-19T00:00:00+10:00</updated><id>jessicachapman.com/guestdesigns</id><content type="html" xml:base="jessicachapman.com/guest-designs/">&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        
+        &lt;a class=&quot;prev float-left&quot; href=&quot;/dch/&quot;&gt;&amp;laquo; Defence Community Hub&lt;/a&gt;
+        
+        
+        &lt;a class=&quot;next float-right&quot; href=&quot;/engineers-australia/&quot;&gt;Engineers Australia &amp;raquo;&lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1&gt;Guest Designs&lt;/h1&gt;
+&lt;section class=&quot; mt-5 mb-5&quot;&gt;
+    &lt;p&gt;A brochure website created for a local building company in Canberra. Design and full-development of website, including logo creation.&lt;/p&gt;
+    &lt;p&gt;&lt;a class=&quot;project-link-url&quot; target=&quot;_blank&quot; href=&quot;http://www.guestdesigns.com.au/&quot;&gt;guestdesigns.com.au&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col mb-5&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Guest Designs website, showing the design of the homepage&quot; src=&quot;/assets/img/full/guestdesigns-home.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Guest Designs website, showing the design of a content page&quot; src=&quot;/assets/img/full/guestdesigns-content.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row mt-5&quot;&gt;
+
+    &lt;div class=&quot;col mt-5&quot;&gt;
+
+
+     
+
+            
+            &lt;a class=&quot;prev float-left&quot; href=&quot;/dch/&quot;&gt;&amp;laquo; Defence Community Hub&lt;/a&gt;
+            
+            
+            &lt;a class=&quot;next float-right&quot; href=&quot;/engineers-australia/&quot;&gt;Engineers Australia &amp;raquo;&lt;/a&gt;
+            
+      
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">&amp;laquo; Defence Community Hub Engineers Australia &amp;raquo; Guest Designs A brochure website created for a local building company in Canberra. Design and full-development of website, including logo creation. guestdesigns.com.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jessicachapman.com/guestdesigns_thumb.jpg" /></entry><entry><title type="html">Defence Community Hub</title><link href="jessicachapman.com/dch/" rel="alternate" type="text/html" title="Defence Community Hub" /><published>2017-04-18T00:00:00+10:00</published><updated>2017-04-18T00:00:00+10:00</updated><id>jessicachapman.com/dch</id><content type="html" xml:base="jessicachapman.com/dch/">&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        
+        &lt;a class=&quot;prev float-left&quot; href=&quot;/3r/&quot;&gt;&amp;laquo; 3R Supplements&lt;/a&gt;
+        
+        
+        &lt;a class=&quot;next float-right&quot; href=&quot;/guest-designs/&quot;&gt;Guest Designs &amp;raquo;&lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1&gt;Defence Community Hub&lt;/h1&gt;
+&lt;section class=&quot; mt-5 mb-5&quot;&gt;
+    &lt;p&gt;An online resource for ADF members and their families to find information on their posting location. This project involved the full design and development of a website using Drupal 7 (GovCMS distribution).&lt;/p&gt;
+    &lt;p&gt;&lt;a class=&quot;project-link-url&quot; target=&quot;_blank&quot; href=&quot;https://www.defencecommunityhub.org.au&quot;&gt;defencecommunityhub.org.au&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col mb-5&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Defence Community Hub website, showing the design of the homepage&quot; src=&quot;/assets/img/full/dch-home.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Defence Community Hub website, showing the design of a content page&quot; src=&quot;/assets/img/full/dch-content.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row mt-5&quot;&gt;
+
+    &lt;div class=&quot;col mt-5&quot;&gt;
+
+
+     
+
+            
+            &lt;a class=&quot;prev float-left&quot; href=&quot;/3r/&quot;&gt;&amp;laquo; 3R Supplements&lt;/a&gt;
+            
+            
+            &lt;a class=&quot;next float-right&quot; href=&quot;/guest-designs/&quot;&gt;Guest Designs &amp;raquo;&lt;/a&gt;
+            
+      
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">&amp;laquo; 3R Supplements Guest Designs &amp;raquo; Defence Community Hub An online resource for ADF members and their families to find information on their posting location. This project involved the full design and development of a website using Drupal 7 (GovCMS distribution). defencecommunityhub.org.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jessicachapman.com/dch_thumb.jpg" /></entry><entry><title type="html">3R Supplements</title><link href="jessicachapman.com/3r/" rel="alternate" type="text/html" title="3R Supplements" /><published>2016-07-24T00:00:00+10:00</published><updated>2016-07-24T00:00:00+10:00</updated><id>jessicachapman.com/3r</id><content type="html" xml:base="jessicachapman.com/3r/">&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        
+        &lt;a class=&quot;prev float-left&quot; href=&quot;/infinityplus/&quot;&gt;&amp;laquo; InfinityPlus Wellness&lt;/a&gt;
+        
+        
+        &lt;a class=&quot;next float-right&quot; href=&quot;/dch/&quot;&gt;Defence Community Hub &amp;raquo;&lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1&gt;3R Supplements&lt;/h1&gt;
+&lt;section class=&quot; mt-5 mb-5&quot;&gt;
+    &lt;p&gt;3R Supplements&lt;/p&gt;
+    &lt;p&gt;&lt;a class=&quot;project-link-url&quot; target=&quot;_blank&quot; href=&quot;https://www.3rsupplements.com.au/&quot;&gt;3rsupplements.com.au&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col mb-5&quot;&gt;
+        &lt;img alt=&quot;Screenshot of 3R Supplements website, showing the design of the homepage&quot; src=&quot;/assets/img/full/3r-home.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        &lt;img alt=&quot;Screenshot of 3R Supplements website, showing the design of the main shop page&quot; src=&quot;/assets/img/full/3r-product.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row mt-5&quot;&gt;
+
+    &lt;div class=&quot;col mt-5&quot;&gt;
+
+
+     
+
+            
+            &lt;a class=&quot;prev float-left&quot; href=&quot;/infinityplus/&quot;&gt;&amp;laquo; InfinityPlus Wellness&lt;/a&gt;
+            
+            
+            &lt;a class=&quot;next float-right&quot; href=&quot;/dch/&quot;&gt;Defence Community Hub &amp;raquo;&lt;/a&gt;
+            
+      
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">&amp;laquo; InfinityPlus Wellness Defence Community Hub &amp;raquo; 3R Supplements 3R Supplements 3rsupplements.com.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jessicachapman.com/3r_thumb.jpg" /></entry><entry><title type="html">InfinityPlus Wellness</title><link href="jessicachapman.com/infinityplus/" rel="alternate" type="text/html" title="InfinityPlus Wellness" /><published>2015-02-02T00:00:00+11:00</published><updated>2015-02-02T00:00:00+11:00</updated><id>jessicachapman.com/infinity</id><content type="html" xml:base="jessicachapman.com/infinityplus/">&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        
+        &lt;a class=&quot;prev float-left&quot; href=&quot;/dha/&quot;&gt;&amp;laquo; Defence Housing Australia&lt;/a&gt;
+        
+        
+        &lt;a class=&quot;next float-right&quot; href=&quot;/3r/&quot;&gt;3R Supplements &amp;raquo;&lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1&gt;InfinityPlus Wellness&lt;/h1&gt;
+&lt;section class=&quot; mt-5 mb-5&quot;&gt;
+    &lt;p&gt;Infinity Plus is a website created for a personal trainer/life coach business. This project involved the creation of a logo and website.&lt;/p&gt;
+    &lt;p&gt;&lt;a class=&quot;project-link-url&quot; target=&quot;_blank&quot; href=&quot;https://www.infinitypluswellness.com.au&quot;&gt;infinitypluswellness.com.au&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col mb-5&quot;&gt;
+        &lt;img alt=&quot;Screenshot of InfinityPlus Wellness website, showing the design of the homepage&quot; src=&quot;/assets/img/full/infinityplus-home.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        &lt;img alt=&quot;Screenshot of InfinityPlus Wellness website, showing the design of the main shop page&quot; src=&quot;/assets/img/full/infinityplus-content.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row mt-5&quot;&gt;
+
+    &lt;div class=&quot;col mt-5&quot;&gt;
+
+
+     
+
+            
+            &lt;a class=&quot;prev float-left&quot; href=&quot;/dha/&quot;&gt;&amp;laquo; Defence Housing Australia&lt;/a&gt;
+            
+            
+            &lt;a class=&quot;next float-right&quot; href=&quot;/3r/&quot;&gt;3R Supplements &amp;raquo;&lt;/a&gt;
+            
+      
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">&amp;laquo; Defence Housing Australia 3R Supplements &amp;raquo; InfinityPlus Wellness Infinity Plus is a website created for a personal trainer/life coach business. This project involved the creation of a logo and website. infinitypluswellness.com.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jessicachapman.com/infinityplus_thumb.jpg" /></entry><entry><title type="html">Defence Housing Australia</title><link href="jessicachapman.com/dha/" rel="alternate" type="text/html" title="Defence Housing Australia" /><published>2014-05-12T00:00:00+10:00</published><updated>2014-05-12T00:00:00+10:00</updated><id>jessicachapman.com/dha</id><content type="html" xml:base="jessicachapman.com/dha/">&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        
+        
+        &lt;a class=&quot;next float-right&quot; href=&quot;/infinityplus/&quot;&gt;InfinityPlus Wellness &amp;raquo;&lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1&gt;Defence Housing Australia&lt;/h1&gt;
+&lt;section class=&quot; mt-5 mb-5&quot;&gt;
+    &lt;p&gt;While working at Defence Housing Australia (DHA), I helped redesign and development DHA's public-facing website and DHA's online services application.&lt;/p&gt;
+    &lt;p&gt;&lt;a class=&quot;project-link-url&quot; target=&quot;_blank&quot; href=&quot;https://www.dha.gov.au&quot;&gt;dha.gov.au&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col mb-5&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Defence Housing Australia website, showing the design of the homepage&quot; src=&quot;/assets/img/full/dha-home-full.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Defence Housing Australia website, showing the design of the main shop page&quot; src=&quot;/assets/img/full/dha-content.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Defence Housing Australia website, showing the design of the main shop page&quot; src=&quot;/assets/img/full/dha-os.jpg&quot; class=&quot;img-fluid&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row mt-5&quot;&gt;
+
+    &lt;div class=&quot;col mt-5&quot;&gt;
+
+
+     
+
+            
+            
+            &lt;a class=&quot;next float-right&quot; href=&quot;/infinityplus/&quot;&gt;InfinityPlus Wellness &amp;raquo;&lt;/a&gt;
+            
+      
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">InfinityPlus Wellness &amp;raquo; Defence Housing Australia While working at Defence Housing Australia (DHA), I helped redesign and development DHA's public-facing website and DHA's online services application. dha.gov.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jessicachapman.com/dha_thumb.jpg" /></entry></feed>

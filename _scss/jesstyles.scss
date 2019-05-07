@@ -1,0 +1,81 @@
+@import "./_scss/bootstrap4.scss";
+
+
+@import "./pancake/sass/pancake.scss";
+
+
+$jess-brand: #790D82;
+$jess-secondary: #2EC4B6;
+
+[tabindex="-1"] {
+    outline: none;
+}
+
+
+
+.au-body {
+
+    [tabindex="-1"] {
+        outline: none;
+    }
+
+.project-link-url { display:inline-block;}
+    .project-desc {
+        h2 {font-size:1.6rem;}
+
+    }
+
+.img-border{border:1px solid #ddd;}
+    .site-header {
+        background: $jess-brand;
+
+        a {
+            color: #fff;
+            text-decoration: underline;
+            font-size: 1.6rem;
+        }
+
+        a.logo {
+
+            img {
+                max-height: 100px;
+            }
+        }
+    }
+
+
+
+    a.card {
+
+        border-width: 3px;
+        border-radius: 0;
+
+        &:hover,
+        &:focus {
+
+            border-color: $jess-secondary;
+        }
+    }
+
+    .au-skip-link__link:active,
+    .au-skip-link__link:focus {
+
+        color: #000;
+        background: $jess-secondary;
+    }
+
+    .au-footer {
+        border-top-color: $jess-brand;
+    }
+
+    .intro {
+
+        border-bottom: 3px dashed #ddd;
+    }
+
+    p.lead {
+        font-size: 1.5rem;
+        font-weight: normal;
+        // max-width: 100% !important
+    }
+}
