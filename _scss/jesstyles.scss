@@ -22,13 +22,14 @@ $main-bg: #D8D8F6;
 html,
 .au-body {
 
-    background: $main-bg
+    background: $jess-dark
 }
 
 .au-body {
     #main-content {
        //background: #f8f9fa;
        background:#fff;
+       padding-bottom:100px;
     }
 
     a {
@@ -50,7 +51,7 @@ html,
     .project-link-url {
         display: inline-block;
     }
-
+h1 {margin:0;}
     h1,
     h2,
     h3 {
