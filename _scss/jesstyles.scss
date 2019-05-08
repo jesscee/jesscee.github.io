@@ -6,26 +6,90 @@
 
 $jess-brand: #790D82;
 $jess-secondary: #2EC4B6;
+$jess-dark:#320E3B;
+$jess-light:#E0FBFC;
+$jess-gray:#E6EFE9;
+
+$blue:#A0DDFF;
+
+$main-bg: #D8D8F6;
+
 
 [tabindex="-1"] {
     outline: none;
 }
 
+html,
+.au-body {
 
+    background: $main-bg
+}
 
 .au-body {
+    #main-content {
+       //background: #f8f9fa;
+       background:#fff;
+    }
+
+    a {
+
+        color: $jess-brand;
+    }
+
+
+    a[target="_blank"]:after {
+        font-family: 'FontAwesome';
+        content: " \f08e";
+    }
+
 
     [tabindex="-1"] {
         outline: none;
     }
 
-.project-link-url { display:inline-block;}
+    .project-link-url {
+        display: inline-block;
+    }
+
+    h1,
+    h2,
+    h3 {
+        color: $jess-dark;
+    }
+
     .project-desc {
-        h2 {font-size:1.6rem;}
+        h2 {
+            font-size: 1.6rem;
+        }
 
     }
 
-.img-border{border:1px solid #ddd;}
+
+    .page-nav {
+
+        background: $jess-light;
+    }
+
+    .page-title {
+        padding: 5px 15px;
+        background: $main-bg;
+    }
+
+    .au-footer {
+        background: $jess-dark;
+        color:#fff;
+        border-top-width: 6px;
+    }
+
+    h2 {
+        margin-bottom: 1.5rem;
+
+    }
+
+    .img-border {
+        border: 1px solid #f1f1f1;
+    }
+
     .site-header {
         background: $jess-brand;
 
