@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="jessicachapman.com/feed.xml" rel="self" type="application/atom+xml" /><link href="jessicachapman.com/" rel="alternate" type="text/html" /><updated>2019-05-08T23:57:45+10:00</updated><id>jessicachapman.com/feed.xml</id><title type="html">Jessica Chapman</title><subtitle>I'm a Canberra-based Interaction designer and front-end developer. Check out some of my work!</subtitle><entry><title type="html">Urban Roasters</title><link href="jessicachapman.com/urbanroasters/" rel="alternate" type="text/html" title="Urban Roasters" /><published>2018-11-11T00:00:00+11:00</published><updated>2018-11-11T00:00:00+11:00</updated><id>jessicachapman.com/urban-roasters</id><content type="html" xml:base="jessicachapman.com/urbanroasters/">&lt;div class=&quot;page-title mb-5&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="jessicachapman.com/feed.xml" rel="self" type="application/atom+xml" /><link href="jessicachapman.com/" rel="alternate" type="text/html" /><updated>2019-11-07T22:18:26+11:00</updated><id>jessicachapman.com/feed.xml</id><title type="html">Jessica Chapman</title><subtitle>I'm a Canberra-based Interaction designer and front-end developer. Check out some of my work!</subtitle><entry><title type="html">Urban Roasters</title><link href="jessicachapman.com/urbanroasters/" rel="alternate" type="text/html" title="Urban Roasters" /><published>2018-11-11T00:00:00+11:00</published><updated>2018-11-11T00:00:00+11:00</updated><id>jessicachapman.com/urban-roasters</id><content type="html" xml:base="jessicachapman.com/urbanroasters/">&lt;div class=&quot;page-title mb-5&quot;&gt;
     &lt;div class=&quot;container &quot;&gt;
         &lt;div class=&quot;pt-5 pb-5&quot;&gt;
             &lt;div class=&quot;row mb-5 &quot;&gt;
@@ -342,7 +342,7 @@
             &lt;div class=&quot;row mb-5 &quot;&gt;
                 &lt;div class=&quot;col&quot;&gt;
                     
-                    &lt;a class=&quot;prev float-left&quot; href=&quot;/infinityplus/&quot;&gt;Previous project&lt;/a&gt;
+                    &lt;a class=&quot;prev float-left&quot; href=&quot;/letresbon/&quot;&gt;Previous project&lt;/a&gt;
                     
                     
                     &lt;a class=&quot;next float-right&quot; href=&quot;/dch/&quot;&gt;Next project&lt;/a&gt;
@@ -379,7 +379,7 @@
      
 
             
-            &lt;a class=&quot;prev float-left&quot; href=&quot;/infinityplus/&quot;&gt;Previous project&lt;/a&gt;
+            &lt;a class=&quot;prev float-left&quot; href=&quot;/letresbon/&quot;&gt;Previous project&lt;/a&gt;
             
             
             &lt;a class=&quot;next float-right&quot; href=&quot;/dch/&quot;&gt;Next project&lt;/a&gt;
@@ -388,7 +388,7 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Previous project Next project 3R Supplements 3R Supplements is a Canberra-based company that produces protein supplements. This project involved the design and front-end development of the 3R Supplements online store. 3rsupplements.com.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jessicachapman.com/3r_thumb.jpg" /></entry><entry><title type="html">InfinityPlus Wellness</title><link href="jessicachapman.com/infinityplus/" rel="alternate" type="text/html" title="InfinityPlus Wellness" /><published>2015-02-02T00:00:00+11:00</published><updated>2015-02-02T00:00:00+11:00</updated><id>jessicachapman.com/infinity</id><content type="html" xml:base="jessicachapman.com/infinityplus/">&lt;div class=&quot;page-title mb-5&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Previous project Next project 3R Supplements 3R Supplements is a Canberra-based company that produces protein supplements. This project involved the design and front-end development of the 3R Supplements online store. 3rsupplements.com.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jessicachapman.com/3r_thumb.jpg" /></entry><entry><title type="html">Le Très Bon</title><link href="jessicachapman.com/letresbon/" rel="alternate" type="text/html" title="Le Très Bon" /><published>2015-02-02T00:00:00+11:00</published><updated>2015-02-02T00:00:00+11:00</updated><id>jessicachapman.com/letresbon</id><content type="html" xml:base="jessicachapman.com/letresbon/">&lt;div class=&quot;page-title mb-5&quot;&gt;
     &lt;div class=&quot;container &quot;&gt;
         &lt;div class=&quot;pt-5 pb-5&quot;&gt;
             &lt;div class=&quot;row mb-5 &quot;&gt;
@@ -401,41 +401,29 @@
                     
                 &lt;/div&gt;
             &lt;/div&gt;
-            &lt;h1 class=&quot; m-0&quot;&gt;InfinityPlus Wellness&lt;/h1&gt;
+            &lt;h1 class=&quot; m-0&quot;&gt;Le Très Bon&lt;/h1&gt;
             &lt;section class=&quot;page-desc mt-5&quot;&gt;
-                &lt;p&gt;Infinity Plus is a website created for a personal trainer/life coach business. This project involved the creation of a logo and website.&lt;/p&gt;
-                &lt;p&gt;&lt;a class=&quot;project-link-url&quot; target=&quot;_blank&quot; href=&quot;https://www.infinitypluswellness.com.au&quot; &gt;infinitypluswellness.com.au&lt;/a&gt;&lt;/p&gt;
+                &lt;p&gt;Le Très Bon is a french restaurant located in Bungendore NSW. I designed and developed the restaurant's website, with a particular emphasis on the restaurant's Cooking Tour offerings.&lt;/p&gt;
+                &lt;p&gt;&lt;a class=&quot;project-link-url&quot; target=&quot;_blank&quot; href=&quot;https://www.urbanroasters.com.au&quot; &gt;urbanroasters.com.au&lt;/a&gt;&lt;/p&gt;
             &lt;/section&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-
 &lt;div class=&quot;container&quot;&gt;
-
-&lt;h2&gt;Website design and development&lt;/h2&gt;
+&lt;h2&gt;Cooking Tours&lt;/h2&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col mb-5&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Le Très Bon website, showing the design of the tour page&quot; src=&quot;/assets/img/full/letresbon-tour.jpg&quot; class=&quot;img-fluid&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col mb-5&quot;&gt;
-        &lt;img alt=&quot;Screenshot of InfinityPlus Wellness website, showing the design of the homepage&quot; src=&quot;/assets/img/full/infinityplus_home.jpg&quot; class=&quot;img-fluid&quot;&gt;
+        &lt;img alt=&quot;Screenshot of Le Très Bon website, showing the design of the tour page&quot; src=&quot;/assets/img/full/letresbon-tour2.jpg&quot; class=&quot;img-fluid&quot;&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
 
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col&quot;&gt;
-        &lt;img alt=&quot;Screenshot of InfinityPlus Wellness website, showing the design of the main shop page&quot; src=&quot;/assets/img/full/infinityplus_home2.jpg&quot; class=&quot;img-fluid&quot;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;h2&gt;Logo design&lt;/h2&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col mb-5&quot;&gt;
-        &lt;img alt=&quot;InfinityPlus logo design&quot; src=&quot;/assets/img/full/infinityplus_logo.jpg&quot; class=&quot;img-fluid&quot;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
 
 &lt;div class=&quot;row mt-5&quot;&gt;
 
@@ -453,15 +441,14 @@
       
     &lt;/div&gt;
 &lt;/div&gt;
-
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Previous project Next project InfinityPlus Wellness Infinity Plus is a website created for a personal trainer/life coach business. This project involved the creation of a logo and website. infinitypluswellness.com.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jessicachapman.com/infinityplus_thumb.jpg" /></entry><entry><title type="html">Defence Housing Australia</title><link href="jessicachapman.com/dha/" rel="alternate" type="text/html" title="Defence Housing Australia" /><published>2014-05-12T00:00:00+10:00</published><updated>2014-05-12T00:00:00+10:00</updated><id>jessicachapman.com/dha</id><content type="html" xml:base="jessicachapman.com/dha/">&lt;div class=&quot;page-title mb-5&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Previous project Next project Le Très Bon Le Très Bon is a french restaurant located in Bungendore NSW. I designed and developed the restaurant's website, with a particular emphasis on the restaurant's Cooking Tour offerings. urbanroasters.com.au Cooking Tours</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jessicachapman.com/letresbon_thumb.jpg" /></entry><entry><title type="html">Defence Housing Australia</title><link href="jessicachapman.com/dha/" rel="alternate" type="text/html" title="Defence Housing Australia" /><published>2014-05-12T00:00:00+10:00</published><updated>2014-05-12T00:00:00+10:00</updated><id>jessicachapman.com/dha</id><content type="html" xml:base="jessicachapman.com/dha/">&lt;div class=&quot;page-title mb-5&quot;&gt;
     &lt;div class=&quot;container &quot;&gt;
         &lt;div class=&quot;pt-5 pb-5&quot;&gt;
             &lt;div class=&quot;row mb-5 &quot;&gt;
                 &lt;div class=&quot;col&quot;&gt;
                     
                     
-                    &lt;a class=&quot;next float-right&quot; href=&quot;/infinityplus/&quot;&gt;Next project&lt;/a&gt;
+                    &lt;a class=&quot;next float-right&quot; href=&quot;/letresbon/&quot;&gt;Next project&lt;/a&gt;
                     
                 &lt;/div&gt;
             &lt;/div&gt;
@@ -474,8 +461,25 @@
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;container&quot;&gt;
+
+     &lt;h2&gt;Kiosk Application UI design&lt;/h2&gt;
+    &lt;p&gt;Creation of a kiosk application user interface for DHA members to use at DHA member centers&lt;/p&gt;
+    &lt;div class=&quot;row mt-3&quot;&gt;
+        &lt;div class=&quot;col&quot;&gt;
+            &lt;img alt=&quot;Screenshot of Defence Housing Australia website, showing the design of the main shop page&quot; src=&quot;/assets/img/full/dha-kiosk.jpg&quot; class=&quot;img-fluid&quot;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;h2&gt;Web App UI design&lt;/h2&gt;
+    &lt;p&gt;User Interface design of DHA's online services based on user needs of Australian Defence Force members.&lt;/p&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col&quot;&gt;
+            &lt;img alt=&quot;Screenshot of Defence Housing Australia website, showing the design of the main shop page&quot; src=&quot;/assets/img/full/dha-os.jpg&quot; class=&quot;img-fluid&quot;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
     &lt;h2&gt;Website design and front-end development&lt;/h2&gt;
-    &lt;p&gt;Re-design of DHA's public website to align with DHA's Online services style and modernise DHA's online brand.&lt;/p&gt;
+    &lt;p&gt;Design of DHA's public website to align with DHA's Online services style and modernise DHA's online brand.&lt;/p&gt;
     &lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;col mb-5&quot;&gt;
             &lt;img alt=&quot;Screenshot of Defence Housing Australia website, showing the design of the homepage&quot; src=&quot;/assets/img/full/dha-home-full.jpg&quot; class=&quot;img-fluid img-border&quot;&gt;
@@ -486,20 +490,8 @@
             &lt;img alt=&quot;Screenshot of Defence Housing Australia website, showing the design of the main shop page&quot; src=&quot;/assets/img/full/dha-content-2.jpg&quot; class=&quot;img-fluid&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;h2&gt;Web application design and front-end development&lt;/h2&gt;
-    &lt;p&gt;Re-design of DHA's online services based on user needs for Australian Defence Force members.&lt;/p&gt;
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col&quot;&gt;
-            &lt;img alt=&quot;Screenshot of Defence Housing Australia website, showing the design of the main shop page&quot; src=&quot;/assets/img/full/dha-os.jpg&quot; class=&quot;img-fluid&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2&gt;Kiosk application design and front-end development&lt;/h2&gt;
-    &lt;p&gt;Creation of a kiosk application for DHA members to use at DHA member centers&lt;/p&gt;
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col&quot;&gt;
-            &lt;img alt=&quot;Screenshot of Defence Housing Australia website, showing the design of the main shop page&quot; src=&quot;/assets/img/full/dha-kiosk.jpg&quot; class=&quot;img-fluid&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
+    
+   
     &lt;div class=&quot;row mt-5&quot;&gt;
 
     &lt;div class=&quot;col mt-5&quot;&gt;
@@ -509,9 +501,9 @@
 
             
             
-            &lt;a class=&quot;next float-right&quot; href=&quot;/infinityplus/&quot;&gt;Next project&lt;/a&gt;
+            &lt;a class=&quot;next float-right&quot; href=&quot;/letresbon/&quot;&gt;Next project&lt;/a&gt;
             
       
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Next project Defence Housing Australia While working at Defence Housing Australia (DHA), I helped redesign and development DHA's public-facing website, DHA's online services application, and assist in designing interfaces for various other applications and systems. dha.gov.au Website design and front-end development Re-design of DHA's public website to align with DHA's Online services style and modernise DHA's online brand. Web application design and front-end development Re-design of DHA's online services based on user needs for Australian Defence Force members. Kiosk application design and front-end development Creation of a kiosk application for DHA members to use at DHA member centers Next project</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jessicachapman.com/dha_thumb.jpg" /></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Next project Defence Housing Australia While working at Defence Housing Australia (DHA), I helped redesign and development DHA's public-facing website, DHA's online services application, and assist in designing interfaces for various other applications and systems. dha.gov.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jessicachapman.com/dha_thumb.jpg" /></entry></feed>

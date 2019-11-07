@@ -6,6 +6,7 @@
 
 $jess-brand: #790D82;
 $jess-secondary: #2EC4B6;
+$jess-secondary-light:#ACECE5;
 $jess-dark:#320E3B;
 $jess-light:#E0FBFC;
 $jess-gray:#E6EFE9;
@@ -27,9 +28,9 @@ html,
 
 .au-body {
     #main-content {
-       //background: #f8f9fa;
-       background:#fff;
-       padding-bottom:100px;
+        //background: #f8f9fa;
+        background: #fff;
+        padding-bottom: 100px;
     }
 
     a {
@@ -51,7 +52,11 @@ html,
     .project-link-url {
         display: inline-block;
     }
-h1 {margin:0;}
+
+    h1 {
+        margin: 0;
+    }
+
     h1,
     h2,
     h3 {
@@ -71,14 +76,69 @@ h1 {margin:0;}
         background: $jess-light;
     }
 
+    .round-thumb {
+        width: 30rem;
+        height: 30rem !important;
+        border-radius: 50%;
+        margin: 20px;
+        position: relative;
+        object-fit: cover;
+
+        object-position: center right;
+    }
+
     .page-title {
         padding: 5px 15px;
         background: $main-bg;
+
+        img {
+            height: 30rem;
+
+            @media (min-width: 1281px) {
+                height: 40rem;
+            }
+        }
+
+        .container {
+
+            @media (max-width: 801px) {
+                max-width: 100%;
+            }
+        }
+
+        &.featured {
+            background: rgb(216, 216, 246);
+            background: linear-gradient(180deg, rgba(216, 216, 246, 1) 56%, rgba(255, 255, 255, 1) 56%);
+
+            @media (min-width: 1281px) {
+                background: linear-gradient(180deg, rgba(216, 216, 246, 1) 63%, rgba(255, 255, 255, 1) 63%);
+
+            }
+
+            h1 {
+
+                text-align: right;
+                font-size: 2rem;
+                text-transform: uppercase;
+                line-height: 1;
+                float: right;
+
+                @media (min-width: 600px) {
+                    font-size: 3rem;
+                }
+
+                @media (min-width: 1281px) {
+                    font-size: 6rem;
+                }
+            }
+        }
+
+
     }
 
     .au-footer {
         background: $jess-dark;
-        color:#fff;
+        color: #fff;
         border-top-width: 6px;
     }
 
@@ -95,15 +155,26 @@ h1 {margin:0;}
         background: $jess-brand;
 
         a {
-            color: #fff;
-            text-decoration: underline;
+            color: #fff;text-decoration: none;
+            
             font-size: 1.6rem;
+
+            &:hover,
+            &:focus {
+               text-decoration: underline; 
+                color:$jess-secondary-light
+            }
         }
 
         a.logo {
 
             img {
-                max-height: 100px;
+                height: 5rem;
+                width:auto;
+
+                @media (min-width: 801px) {
+                    height: 6rem;
+                }
             }
         }
     }
