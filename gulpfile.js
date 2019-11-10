@@ -89,7 +89,7 @@ gulp.task('sass', function () {
 gulp.task('watch', function () {
     gulp.watch(['_scss/*.scss', '_scss/*/*.scss'], ['sass']);
     gulp.watch(['/assets/js/*.js', '/assets/**/js/*.js'], ['lint']);
-    gulp.watch(['_scss/*.scss', '_scss/*/*.scss', '*.md','index.html','pages/**/*.html','layouts/**/*.html', 'assets/js/*.js','assets/**/js/*.js', 'assets/images/*.*'], ['jekyll-rebuild']);
+    gulp.watch(['_scss/*.scss', '_scss/*/*.scss', '*.md','index.html','posts/**','pages/**/*.html','layouts/**/*.html', 'assets/js/*.js','assets/**/js/*.js', 'assets/images/*.*'], ['jekyll-rebuild']);
 });
 
 /**
