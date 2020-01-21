@@ -1,5 +1,5 @@
 {
-  "name": "Jessica Chapman Portfolio",
+  "name": "JessicaChapmanPortfolio",
   "version": "0.0.01",
   "description": "Jessica Chapman Portfolio",
   "main": "gulpfile.js",
@@ -11,15 +11,13 @@
   "devDependencies": {
     "autoprefixer": "^6.5.1",
     "browser-sync": "^2.17.5",
-    "cssnano": "^3.8.0",
+    "cssnano": "^3.10.0",
     "csswring": "^5.1.0",
     "del": "^2.2.2",
-    "gulp": "^3.9.1",
-    "gulp-jslint": "^1.0.10",
+    "gulp-eslint": "^1.1.1",
+    "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^6.2.0",
-    "gulp-sass": "^4.0.1",
-    "jshint": "^2.9.5",
-    "jshint-stylish": "^2.2.1"
+    "gulp-sass": "^4.0.1"
   },
   "dependencies": {
     "@gov.au/accordion": "^7.0.7",
@@ -50,8 +48,15 @@
     "@gov.au/tags": "^3.1.6",
     "@gov.au/text-inputs": "^2.1.0",
     "bootstrap": "^4.3.1",
+    "child_process": "^1.0.2",
+    "gulp": "^4.0.2",
     "gulp-gh-pages": "^0.5.4",
-    "gulp-jshint": "^2.1.0"
+    "gulp-jshint": "^2.1.0",
+    "gulp-rename": "^1.4.0",
+    "webpack": "^4.41.2",
+    "webpack-config": "^7.5.0",
+    "webpack-stream": "^5.2.1",
+    "webpackconfig": "0.0.2"
   },
   "pancake": {
     "auto-save": true,
