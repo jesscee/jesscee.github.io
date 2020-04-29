@@ -1,0 +1,4 @@
+baseurl: ""
+exclude: ["node_modules", "gulpfile.js", "package.json", "services","featured", "pancake"]
+jekyll-minifier:
+  exclude: ["assets/css/*.css","*.min.*","assets/js/*.js","manifest.yml", "Staticfile"]

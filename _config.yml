@@ -1,42 +1,21 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# 'bundle exec jekyll serve [--baseurl '']'. If you change this file, please restart the server process.
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jessica Chapman
-email: hello@jessicachapman.com
-description: I'm a Canberra-based Interaction designer and front-end developer. Check out some of my work!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "jessicachapman.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  jesscee
+title: Jess Portfolio
+email: jesseechapman@gmail.com
+description: Jess Portfolio of work
+baseurl: "/pages" # the subpath of your site, e.g. /blog
+url: "jesscee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 # Build settings
 markdown: kramdown
-
-exclude: ["node_modules", "gulpfile.js", "package.json", "package-lock.json", "pancake", README.md]
-
+exclude: ["node_modules", "gulpfile.js", "package.json", "pancake"]
 plugins:
     - jekyll-minifier
 jekyll-minifier:
-  exclude: ["*.min.*"]
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  exclude: ["assets/*/*.css","*.min.*","assets/*/*.js","manifest.yml", "Staticfile"]
