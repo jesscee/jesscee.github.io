@@ -1,21 +1,29 @@
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve [--baseurl '']'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+---
 title: Jess Portfolio
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: jesseechapman@gmail.com
 description: Jess Portfolio of work
-baseurl: "/pages" # the subpath of your site, e.g. /blog
-url: "jesscee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
+baseurl: "/pages"
+url: jesscee.github.io
 markdown: kramdown
-exclude: ["node_modules", "gulpfile.js", "package.json", "pancake"]
+exclude:
+- node_modules
+- gulpfile.js
+- package.json
+- pancake
 plugins:
-    - jekyll-minifier
+- jekyll-minifier
 jekyll-minifier:
-  exclude: ["assets/*/*.css","*.min.*","assets/*/*.js","manifest.yml", "Staticfile"]
+  exclude:
+  - assets/*/*.css
+  - "*.min.*"
+  - assets/*/*.js
+  - manifest.yml
+  - Staticfile
