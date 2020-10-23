@@ -186,7 +186,7 @@ html,
 
         a {
             color: #fff;
-            text-decoration: none;
+            text-decoration: underline;
 
             font-size: 1.6rem;
 
@@ -200,7 +200,8 @@ html,
 
             img {
                 height: 5rem;
-                width: auto;
+                max-width: initial!important;
+             width:auto!important;
 
                 @media (min-width: 801px) {
                     height: 6rem;
