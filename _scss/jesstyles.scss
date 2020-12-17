@@ -24,6 +24,7 @@ html,
 .au-body {
     font-size: 1.1rem;
     background: $jess-dark;
+    font-family: 'Andika New Basic', sans-serif;
 
     a {
         text-decoration: underline
@@ -61,7 +62,10 @@ html,
 
 
 
+#nav {
 
+    a + a {margin-left:1rem;}
+}
 
     [tabindex="-1"] {
         outline: none;
@@ -182,7 +186,7 @@ html,
     }
 
     .site-header {
-        background: $jess-brand;
+        background: $jess-dark;
 
         a {
             color: #fff;
