@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="jesscee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="jesscee.github.io/" rel="alternate" type="text/html" /><updated>2020-12-17T05:24:54+00:00</updated><id>jesscee.github.io/feed.xml</id><title type="html">Jessica Chapman Portfolio</title><subtitle>Jess Portfolio of work</subtitle><entry><title type="html">Digital Identity website</title><link href="jesscee.github.io/digitalidentity/" rel="alternate" type="text/html" title="Digital Identity website" /><published>2020-11-12T00:00:00+00:00</published><updated>2020-11-12T00:00:00+00:00</updated><id>jesscee.github.io/digitalidentity</id><content type="html" xml:base="jesscee.github.io/digitalidentity/">{% include project-detail.html %}
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="jesscee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="jesscee.github.io/" rel="alternate" type="text/html" /><updated>2020-12-17T05:44:39+00:00</updated><id>jesscee.github.io/feed.xml</id><title type="html">Jessica Chapman Portfolio</title><subtitle>Jess Portfolio of work</subtitle><entry><title type="html">Digital Identity website</title><link href="jesscee.github.io/digitalidentity/" rel="alternate" type="text/html" title="Digital Identity website" /><published>2020-11-12T00:00:00+00:00</published><updated>2020-11-12T00:00:00+00:00</updated><id>jesscee.github.io/digitalidentity</id><content type="html" xml:base="jesscee.github.io/digitalidentity/">{% include project-detail.html %}
 
 
 
@@ -23,7 +23,7 @@
 
 {% include project-nav-footer.html %}
 
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Previous project Digital Identity website While working at the Digital Transformation Agency, I was the User Experience Design lead, and lead Developer for the Digital Identity website project (putting on my unicorn hat!). Working together with stakeholders, I provided guidance on best-practice, and developed the entire site in Drupal 8. The website was successfully launched in November 2020. digitialidentity.gov.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jesscee.github.io/digitalidentity-thumb.jpg" /></entry><entry><title type="html">Engineers Australia</title><link href="jesscee.github.io/engineers-australia/" rel="alternate" type="text/html" title="Engineers Australia" /><published>2018-12-11T00:00:00+00:00</published><updated>2018-12-11T00:00:00+00:00</updated><id>jesscee.github.io/ea</id><content type="html" xml:base="jesscee.github.io/engineers-australia/">{% include project-detail.html %}
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Previous project Digital Identity website While working at the Digital Transformation Agency, I was the User Experience Design lead, and lead Developer for the Digital Identity website project (putting on my unicorn hat!). Working together with stakeholders, I provided guidance on best-practice, and developed the entire site in Drupal 8. The website was successfully launched in November 2020. Visit digitialidentity.gov.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jesscee.github.io/digitalidentity-thumb.jpg" /></entry><entry><title type="html">Engineers Australia</title><link href="jesscee.github.io/engineers-australia/" rel="alternate" type="text/html" title="Engineers Australia" /><published>2018-12-11T00:00:00+00:00</published><updated>2018-12-11T00:00:00+00:00</updated><id>jesscee.github.io/ea</id><content type="html" xml:base="jesscee.github.io/engineers-australia/">{% include project-detail.html %}
 &lt;div class=&quot;container&quot;&gt;
     &lt;div class=&quot;row pt-5 pb-5&quot;&gt;
         &lt;div class=&quot;col-xs-12 col-lg-6&quot;&gt;
@@ -153,36 +153,26 @@ There was a lot of work involved in this project, as it wasn't only a redesign o
     {% include project-nav-footer.html %}
 &lt;/div&gt;</content><author><name></name></author><summary type="html">Previous project Next project Defence Housing Australia While working at Defence Housing Australia (DHA), I helped redesign and development DHA's public-facing website, deisgn the UI for DHA's online services application, and assist in designing users interfaces for various other applications and systems. Visit DHA website</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jesscee.github.io/dha_thumb.jpg" /></entry><entry><title type="html">Urban Roasters</title><link href="jesscee.github.io/urbanroasters/" rel="alternate" type="text/html" title="Urban Roasters" /><published>2018-11-11T00:00:00+00:00</published><updated>2018-11-11T00:00:00+00:00</updated><id>jesscee.github.io/urban-roasters</id><content type="html" xml:base="jesscee.github.io/urbanroasters/">{% include project-detail.html %}
 &lt;div class=&quot;container&quot;&gt;
-&lt;h2&gt;Logo design&lt;/h2&gt;
+
+
+&lt;h2&gt;Website design and development&lt;/h2&gt;
+&lt;p&gt;I built a highly-customised e-commerce website for Urban Roasters. The website helps people easily purchase once-off coffee and coffee subscription orders online.&lt;/p&gt;
+&lt;p class=&quot;mb-5&quot;&gt;I also designed the theme and suite of user interface patterns for Urban Roasters, ensuring a consistent look and feel across their e-commerce platform.&lt;/p&gt;
 &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col mb-5&quot;&gt;
+        &lt;img alt=&quot;A screenshot of the Urban Roasters website homepage. The design is dark, with subtle graffiti artwork in the background. The graffiti artwork features a wolf hand that is holding a takeaway coffee cup with 'UR' text branding.&quot; src=&quot;/assets/img/full/ur-website-home.jpg&quot; class=&quot;img-fluid&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Logo design&lt;/h2&gt;
+&lt;p class=&quot;mb-5&quot;&gt;I designed a unique logo for Urban Roasters. The &quot;UR&quot; logo mark subtley hints at coffee beans with the applied shape, while also incorporating the initials of the business name (Urban Roasters).
     &lt;div class=&quot;col mb-5&quot;&gt;
         &lt;img alt=&quot;Urban Roasters logo design. The logo features 'UR' text stylised on the right. 'Urban Roasters' text is aligned to the left.&quot; src=&quot;/assets/img/full/ur-logo.jpg&quot; class=&quot;img-fluid&quot;&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;Website design and development&lt;/h2&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col mb-5&quot;&gt;
-        &lt;img alt=&quot;A screenshot of the Urban Roasters website homepage. The design is dark, with subtle graffiti artwork in the background. The graffiti artwork features a wolf hand that is holding a takeaway coffee cup with 'UR' text branding.&quot; src=&quot;/assets/img/full/ur-home.jpg&quot; class=&quot;img-fluid&quot;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
 {% include project-nav-footer.html %}
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Previous project Next project Urban roasters Urban Roasters is a boutique coffee roastery located in Canberra. This project involved the design and creation of the Urban Roasters logo along with custom graffiti-style artwork. Urban Roasters did not have an existing online presence, and so I was in charge of the full design and development of Urban Roaster's online coffee store. Visit Urban Roasters website Logo design</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jesscee.github.io/ur_thumb.jpg" /></entry><entry><title type="html">Frontier</title><link href="jesscee.github.io/frontier/" rel="alternate" type="text/html" title="Frontier" /><published>2018-01-12T00:00:00+00:00</published><updated>2018-01-12T00:00:00+00:00</updated><id>jesscee.github.io/frontier</id><content type="html" xml:base="jesscee.github.io/frontier/">{% include project-detail.html %}
-&lt;div class=&quot;container&quot;&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col mb-5&quot;&gt;
-        &lt;img alt=&quot;Screenshot of the Frontier website, showing the design of the homepage&quot; src=&quot;/assets/img/full/frontier-home.jpg&quot; class=&quot;img-border img-fluid&quot;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col&quot;&gt;
-        &lt;img alt=&quot;Screenshot of the Frontier website, showing the design of the main shop page&quot; src=&quot;/assets/img/full/frontier-content.jpg&quot; class=&quot;img-fluid&quot;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-{% include project-nav-footer.html %}
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Previous project Next project Frontier Frontier is an online resource for student and graduate members of Engineers Australia. This project involved the design and full development of the Frontier website. Visit the Frontier website</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jesscee.github.io/ea-frontier_thumb.jpg" /></entry><entry><title type="html">The Cove</title><link href="jesscee.github.io/the-cove/" rel="alternate" type="text/html" title="The Cove" /><published>2017-12-01T00:00:00+00:00</published><updated>2017-12-01T00:00:00+00:00</updated><id>jesscee.github.io/cove</id><content type="html" xml:base="jesscee.github.io/the-cove/">{% include project-detail.html %}
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Previous project Next project Urban roasters Urban Roasters is a boutique coffee roastery located in Canberra. This project involved the design and creation of the Urban Roasters logo along with custom graffiti-style artwork. Urban Roasters did not have an existing online presence, and so I was in charge of the full design and development of Urban Roaster's online coffee store. Visit urbanroasters.com.au</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="jesscee.github.io/ur_thumb.jpg" /></entry><entry><title type="html">The Cove</title><link href="jesscee.github.io/the-cove/" rel="alternate" type="text/html" title="The Cove" /><published>2017-12-01T00:00:00+00:00</published><updated>2017-12-01T00:00:00+00:00</updated><id>jesscee.github.io/cove</id><content type="html" xml:base="jesscee.github.io/the-cove/">{% include project-detail.html %}
 &lt;div class=&quot;container&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col mb-5&quot;&gt;
